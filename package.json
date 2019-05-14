@@ -2,9 +2,12 @@
   "name": "honey_boba",
   "version": "1.0.0",
   "description": "Honey Boba Backend",
-  "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm start",
+    "start": "node ./bin/www",
+    "clean": "rm -rf node_modules",
+    "reinstall": "npm run clean && npm install",
+    "rebuild": "npm run clean && npm install && npm run build"
   },
   "repository": {
     "type": "git",
