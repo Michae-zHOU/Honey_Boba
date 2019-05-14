@@ -1,0 +1,22 @@
+{
+  "name": "honey_boba",
+  "version": "1.0.0",
+  "description": "Honey Boba Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michae-zHOU/Honey_Boba.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Michael Zhou, David Zou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Michae-zHOU/Honey_Boba/issues"
+  },
+  "homepage": "https://github.com/Michae-zHOU/Honey_Boba#readme"
+}
